@@ -12,7 +12,7 @@ GPG Key ID: 084BE9FA4F35AAF5
 * Samsung-Galaxy-Y-Young-Sounds - Same Magisk module as the previous one, but for the Y Young. ==> [Project](https://gitlab.com/Plexer0/Samsung-Galaxy-Y-Young)
 
 # Contact
-I'm available on Matrix at: ```plexer0 colen matrix dot org```
+I'm available on Matrix at: ```plexer0 colen matrix dot org```  
 I'm also available via email for formal requests: ```See my Git history```
 
-** If you are sending me an email, encrypt it with my [pubic key,](https://keys.openpgp.org/vks/v1/by-fingerprint/DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5) otherwise it'll be discarded!!**
+**If you are sending me an email, encrypt it with my [pubic key,](https://keys.openpgp.org/vks/v1/by-fingerprint/DFEDDC0CEEA1F0EE8C99DDCA084BE9FA4F35AAF5) otherwise it'll be discarded!!**
