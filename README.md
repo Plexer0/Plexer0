@@ -5,7 +5,7 @@ GPG Key ID: 084BE9FA4F35AAF5
 ## What I'm working on
 * LinuxFanboy - Funny messages when you run Windows "commands" in your /usr/bin folder ==> [Project](https://gitlab.com/Plexer0/LinuxFanboy)
 * Nitter-Android - An Android webapp for the popular Twitter frontend, Nitter. ==> [Project](https://gitlab.com/Plexer0/Nitter-Android)
-* Website - My static website hosted with GitLab Pages. ==> (Still in progress)
+* Website - My static website hosted with GitLab Pages. ==> [Site](https://plexer0.gitlab.io) [Project](https://gitlab.com/Plexer0/plexer0.gitlab.io)
 
 ## Legacy Projects
 * Samsung-Galaxy-S4-Sounds - Magisk module that replaces your system sounds with the S4 equivalent. ==> [Project](https://gitlab.com/Plexer0/Samsung-Galaxy-S4-Sounds)
