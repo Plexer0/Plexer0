@@ -9,7 +9,7 @@ GPG Key ID: 084BE9FA4F35AAF5
 
 ## Other Projects
 * ThePlexRepo - My personal F-Droid repository that holds my own Android apps. ==> [Site](https://theplexrepo.gitlab.io) | [Project](https://gitlab.com/ThePlexRepo/theplexrepo.gitlab.io)
-* Linux Noob2Guru - A guide on introducing users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
+* Linux New2Guru - A guide on introducing new users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
 
 ## Legacy Projects
 * Samsung-Galaxy-S4-Sounds - Magisk module that replaces your system sounds with the S4 equivalent. ==> [Project](https://gitlab.com/Plexer0/Samsung-Galaxy-S4-Sounds)
