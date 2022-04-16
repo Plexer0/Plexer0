@@ -8,8 +8,8 @@ GPG Key ID: 084BE9FA4F35AAF5
 * Website - My static website hosted with GitLab Pages. ==> [Site](https://plexer0.gitlab.io) | [Project](https://gitlab.com/Plexer0/plexer0.gitlab.io)
 
 ## Other Projects
-* WebApp-Skeleton - A template to setup your own Android webapp. ==> [Project](https://gitlab.com/Plexer0/WebApp-Skeleton)
 * ThePlexRepo - My personal F-Droid repository that holds my own Android apps. ==> [Site](https://theplexrepo.gitlab.io) | [Project](https://gitlab.com/ThePlexRepo/theplexrepo.gitlab.io)
+* Linux Noob2Guru - A guide on introducing users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
 
 ## Legacy Projects
 * Samsung-Galaxy-S4-Sounds - Magisk module that replaces your system sounds with the S4 equivalent. ==> [Project](https://gitlab.com/Plexer0/Samsung-Galaxy-S4-Sounds)
