@@ -3,13 +3,14 @@ Howdy, I am Plexer! I'm yet another nerd that lives on the internet tinkering in
 GPG Key ID: 084BE9FA4F35AAF5 
 
 ## What I'm working on
-* LinuxFanboy - Funny messages when you run Windows "commands" in your /usr/bin folder ==> [Project](https://gitlab.com/Plexer0/LinuxFanboy)
+* Linux New2Guru - A guide on introducing new users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
 * Nitter-Android - An Android webapp for the popular Twitter frontend, Nitter. ==> [Project](https://gitlab.com/Plexer0/Nitter-Android)
 * Website - My static website hosted with GitLab Pages. ==> [Site](https://plexer0.gitlab.io) | [Project](https://gitlab.com/Plexer0/plexer0.gitlab.io)
 
 ## Other Projects
 * ThePlexRepo - My personal F-Droid repository that holds my own Android apps. ==> [Site](https://theplexrepo.gitlab.io) | [Project](https://gitlab.com/ThePlexRepo/theplexrepo.gitlab.io)
-* Linux New2Guru - A guide on introducing new users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
+* LinuxFanboy - Funny messages when you run Windows "commands" in your /usr/bin folder ==> [Project](https://gitlab.com/Plexer0/LinuxFanboy)
+
 
 ## Legacy Projects
 * Samsung-Galaxy-S4-Sounds - Magisk module that replaces your system sounds with the S4 equivalent. ==> [Project](https://gitlab.com/Plexer0/Samsung-Galaxy-S4-Sounds)
