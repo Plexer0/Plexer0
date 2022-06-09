@@ -1,14 +1,14 @@
 # About Me
-Howdy, I am Plexer! I'm yet another nerd that lives on the internet tinkering into infinity.  
+Hello, I am Plexer, yet another nerd that lives on the internet tinkering into infinity.  
 GPG Key ID: 084BE9FA4F35AAF5 
 
 ## What I'm working on
-* Linux New2Guru - A guide on introducing new users to desktop Linux. From getting started to understanding Linux lingo. ==> _Not ready yet._
+* Linux New2Guru - A guide on introducing new users to desktop Linux, powered by MkDocs. ==> _In progress._
 * Nitter-Android - An Android webapp for the popular Twitter frontend, Nitter. ==> [Project](https://gitlab.com/Plexer0/Nitter-Android)
 * Website - My static website hosted with GitLab Pages. ==> [Site](https://plexer0.gitlab.io) | [Project](https://gitlab.com/Plexer0/plexer0.gitlab.io)
 
 ## Other Projects
-* ThePlexRepo - My personal F-Droid repository that holds my own Android apps. ==> [Site](https://theplexrepo.gitlab.io) | [Project](https://gitlab.com/ThePlexRepo/theplexrepo.gitlab.io)
+* ThePlexRepo - My personal F-Droid repository that contains my own Android apps. ==> [Site](https://theplexrepo.gitlab.io) | [Project](https://gitlab.com/ThePlexRepo/theplexrepo.gitlab.io)
 * LinuxFanboy - Funny messages when you run Windows "commands" in your /usr/bin folder ==> [Project](https://gitlab.com/Plexer0/LinuxFanboy)
 
 
